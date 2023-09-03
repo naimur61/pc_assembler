@@ -14,7 +14,6 @@ const HomePage = () => {
       </Head>
 
 
-
       <p>This is home page</p>
     </>
   );
